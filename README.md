@@ -1,7 +1,7 @@
 # Cute Face
 
-This repository contains cute faces of animals.
-
+This repository contains cute faces of emojie .
+* link: https://amar-webdev.github.io/cute-face/
 ## Usage
 
 You can use these images for various purposes, such as creating greeting cards, posters, or social media posts.
